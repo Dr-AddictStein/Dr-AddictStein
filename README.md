@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **New Web Technologies, which I haven't learned yet...**
+- 🌱 I’m currently learning **Web Technologies, which I haven't learned yet...**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Dr-AddictStein](https://github.com/Dr-AddictStein)
+- 👨‍💻 All of my projects are available at [https://github.com/Dr-AddictStein?tab=repositories](https://github.com/Dr-AddictStein?tab=repositories)
 
 - 💬 Ask me about **MERN Stack, DSA, CP**
 
