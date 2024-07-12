@@ -38,11 +38,9 @@
 
 
 
+![Arnab's Graph](https://github-readme-activity-graph.vercel.app/graph?username=dr-addictstein&custom_title=Esrail%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-<div>
-  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dr-addictstein&show_icons=true&locale=en" alt="dr-addictstein" /></p>
-  <p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dr-addictstein&" alt="dr-addictstein" /></p>
-</div>
+![Arnab's Graph](https://github-readme-activity-graph.vercel.app/graph?username=dr-addictstein&custom_title=Esrail%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
 
