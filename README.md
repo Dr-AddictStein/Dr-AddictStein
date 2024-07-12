@@ -29,4 +29,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dr-addictstein&" alt="dr-addictstein" /></p>
 
-https://github-readme-activity-graph.vercel.app/graph?username=Dr-AddictStein&custom_title=Arnab%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true
+<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=dr-addictstein&](https://github-readme-activity-graph.vercel.app/graph?username=Dr-AddictStein&custom_title=Arnab%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)" alt="dr-addictstein" /></p>
+
+
