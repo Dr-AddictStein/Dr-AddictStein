@@ -30,18 +30,11 @@
   <br/>
 </a>
 
-<p align="center">
+<p align="center" width="100%">
   <a href="https://github.com/dr-addictstein">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dr-addictstein&theme=radical" alt="Esrail's GitHub Contribution"/>
   </a>
 </p>
-
-
-
-![Arnab's Graph](https://github-readme-activity-graph.vercel.app/graph?username=dr-addictstein&custom_title=Esrail%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
-![Arnab's Graph](https://github-readme-activity-graph.vercel.app/graph?username=dr-addictstein&custom_title=Esrail%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
 
 
 ![Arnab's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dr-AddictStein&custom_title=Arnab%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
