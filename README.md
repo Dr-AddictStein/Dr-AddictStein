@@ -27,8 +27,7 @@
 
 <div>
   <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dr-addictstein&show_icons=true&locale=en" alt="dr-addictstein" /></p>
-
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dr-addictstein&" alt="dr-addictstein" /></p>
+  <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dr-addictstein&" alt="dr-addictstein" /></p>
 </div>
 
 
